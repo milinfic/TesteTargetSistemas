@@ -54,7 +54,6 @@ Escreva um programa na linguagem que desejar onde calcule o percentual de repres
 >*Escreva um programa que inverta os caracteres de um string.<br><br>
 IMPORTANTE:
 <br><br>
-a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
-<br>
+a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;<br>
 b) Evite usar funções prontas, como, por exemplo, reverse;*
 
